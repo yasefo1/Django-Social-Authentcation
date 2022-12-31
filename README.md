@@ -1,1 +1,1 @@
-"# Django-Social-Authentcation" 
+"# SOCIAL_AUTHENTICATION" 
